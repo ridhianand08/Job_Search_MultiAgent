@@ -1,0 +1,7 @@
+Dear Hiring Team,
+
+I am writing to express my enthusiastic interest in the Data Analyst position at the Department of Health and Human Services. Having closely followed the critical work your agency does in leveraging data for public health initiatives, I am eager to apply my analytical skills and passion for impactful data insights to support your vital mission. The opportunity to contribute my expertise in a role that directly influences health outcomes is incredibly compelling.
+
+In my previous role as a Junior Data Analyst, I consistently utilized complex SQL queries to extract and analyze data, directly informing business intelligence initiatives. I also gained valuable experience designing data visualizations and dashboards in Excel, effectively translating complex metrics into clear, actionable insights for weekly stakeholder reports. Furthermore, I have a proven track record of collaborating effectively with cross-functional teams to drive data-driven decision-making, skills I am confident will translate seamlessly into working with your engineering teams and senior stakeholders. I am proficient in Python and eager to apply my foundational Tableau skills to build impactful dashboards for the agency.
+
+I am confident that my technical abilities, combined with my commitment to clear communication and collaborative problem-solving, align perfectly with the requirements of this role. Thank you for considering my application; I welcome the opportunity to discuss how I can contribute to the Department of Health and Human Services.

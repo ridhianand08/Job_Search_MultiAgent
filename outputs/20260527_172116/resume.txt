@@ -1,0 +1,15 @@
+Jane Smith
+
+EXPERIENCE
+
+Junior Data Analyst, ABC Corp (2022-2024)
+- Engineered complex SQL queries to extract, clean, and validate large-scale datasets, ensuring high levels of data integrity for organizational reporting.
+- Developed and deployed interactive Tableau dashboards to transform raw data into actionable insights, facilitating data-driven decision-making for key stakeholders.
+- Utilized Python to automate data processing workflows, reducing manual analysis time and improving the accuracy of recurring technical reports.
+- Conducted rigorous quantitative analysis to identify trends and outliers, presenting findings through clear, professional data visualizations that communicated complex information to non-technical teams.
+- Maintained a high standard of detail orientation when managing database interactions, ensuring compliance with internal data management standards.
+
+SKILLS
+
+- Technical: SQL, Python, Tableau, Data Visualization
+- Competencies: Quantitative Analysis, Database Management, Workflow Automation, Reporting, Stakeholder Communication, Data Cleaning

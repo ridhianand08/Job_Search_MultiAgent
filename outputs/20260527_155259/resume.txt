@@ -1,0 +1,13 @@
+Jane Smith | jane@email.com | linkedin.com/in/janesmith
+
+EXPERIENCE
+Junior Data Analyst, ABC Corp (2022-2024)
+*   Developed and executed complex SQL queries to extract, transform, and analyze sales data, contributing to business intelligence initiatives.
+*   Designed and maintained data visualizations and dashboards using Excel, effectively communicating key performance indicators and analytical insights in weekly reports for stakeholders.
+*   Collaborated with cross-functional teams, including the marketing department, to conduct data analysis on campaign performance, informing strategic adjustments and decision-making.
+
+EDUCATION
+B.S. Computer Science, State University, 2022
+
+SKILLS
+Python, SQL, Tableau (basic proficiency), Data Visualization, Data Cleaning, Excel

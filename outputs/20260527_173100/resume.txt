@@ -1,0 +1,60 @@
+**Manan Bhutiani**
+Phone: +91 9903353460 | Email: manan.bhutiani@gmail.com
+GitHub: github.com/mananbhutiani | LinkedIn: linkedin.com/in/mananbhutiani
+
+---
+
+### **OBJECTIVE**
+Aspiring Data Scientist with a strong foundation in quantitative analysis, statistical modeling, and machine learning. Seeking to leverage academic excellence in Computer Science (AI) and hands-on experience in predictive modeling to support the Commodity Futures Trading Commission (CFTC) in market monitoring, regulatory oversight, and data-driven policy development.
+
+---
+
+### **SKILLS**
+*   **Quantitative Analysis & Modeling:** Statistical Modeling, Econometric Analysis, Predictive Analytics, Machine Learning (Scikit-learn, PyTorch, TensorFlow).
+*   **Programming & Data Manipulation:** Python (Pandas, NumPy, GeoPandas), SQL (PostgreSQL, MySQL), C, Java.
+*   **Data Visualization & Reporting:** Streamlit, Matplotlib, Seaborn, Technical Writing.
+*   **Tools & Frameworks:** LangGraph, FastAPI, Git.
+*   **Core Competencies:** Data-driven decision making, research methodology, algorithmic complexity, system architecture.
+
+---
+
+### **EXPERIENCE**
+**IEDC Lab, IEM Kolkata** | **Research Assistant** | March 2024 – August 2024
+*   **Quantitative Analysis:** Performed rigorous data processing and quantitative analysis on large-scale satellite datasets using Pandas, NumPy, and GeoPandas to identify environmental degradation patterns.
+*   **Statistical Modeling:** Developed and implemented time-series machine learning models in Scikit-learn, achieving 85% predictive accuracy to support evidence-based decision-making regarding soil salinity trends.
+*   **Feature Engineering:** Engineered complex geospatial features (NDVI, land use, precipitation) to enhance the predictive performance of models, translating raw spatial data into actionable environmental insights.
+*   **Technical Reporting:** Documented methodologies and research findings to ensure technical rigor and reproducibility, supporting project goals for academic and laboratory leadership.
+
+---
+
+### **PROJECTS**
+**Multi-Agent Predictive & Analysis System** | *Tools: Python, CrewAI, LangChain, Streamlit, Gemini API*
+*   **System Development:** Engineered a multi-agent system designed for automated data gathering and analysis.
+*   **Market Monitoring Simulations:** Orchestrated collaborative agent workflows to analyze complex descriptions and datasets, demonstrating an aptitude for identifying patterns and systematic risks within simulated environments.
+*   **Data Visualization:** Built an interactive Streamlit interface to facilitate the interpretation of real-time data feeds, enabling efficient browsing and structured output for regulatory-style documentation.
+
+**AI Audio Transcription & Summarization Tool** | *Tools: Python, Whisper, Gemini, Streamlit*
+*   **Analytical Synthesis:** Designed a tool for automated transcription and summarization of complex audio interactions, facilitating the extraction of key decision points from lengthy technical discussions.
+*   **Process Optimization:** Improved information retrieval efficiency, demonstrating the ability to bridge the gap between unstructured data and concise, actionable summaries for stakeholders.
+
+---
+
+### **ACHIEVEMENTS**
+*   **Research Publication:** Second-author paper on ”Interpretable Deep Learning for Music Genre Classification,” published in IEEE Xplore (CIACON 2025). Demonstrated capability in conducting peer-reviewed research and communicating complex technical findings to a professional audience.
+*   **GATE Qualified:** Qualified GATE (Graduate Aptitude Test in Engineering) – Data Science & Artificial Intelligence (DA) 2026, Ranking: 3144.
+
+---
+
+### **EDUCATION**
+**Institute of Engineering and Management, Kolkata** | 2022 – 2026
+**B.Tech in Computer Science and Engineering (Artificial Intelligence)**
+*   CGPA: 8.98/10.0
+*   Relevant Coursework: Data Science, Machine Learning, Natural Language Processing, Database Management Systems (DBMS), Data Structures and Algorithms (DSA).
+
+---
+
+### **CERTIFICATIONS**
+*   **Natural Language Processing, NPTEL** (2025)
+*   **Data Science for Engineers, NPTEL** (2025)
+*   **Python for Data Science, NPTEL** (2024)
+*   **Introduction to Machine Learning, NPTEL** (2024)

@@ -1,0 +1,33 @@
+Here is a thorough analysis of the Data Analyst job description:
+
+**Job Analysis: Data Analyst, Department of Health and Human Services**
+
+**1. Required Technical Skills:**
+*   Python
+*   SQL
+*   Tableau
+*   Data Visualization
+
+**2. Soft Skills and Qualities:**
+*   Communication (specifically report writing for senior stakeholders)
+*   Collaboration (working with engineering teams)
+*   Analytical Thinking (ability to analyze health data)
+
+**3. Experience Level and Years Required:**
+*   Minimum 2 years of experience
+
+**4. Key Responsibilities:**
+*   Analyze health data using Python and SQL.
+*   Build dashboards in Tableau.
+*   Write reports for senior stakeholders.
+*   Collaborate with engineering teams.
+
+**5. Top 5 Resume Keywords:**
+1.  Python
+2.  SQL
+3.  Tableau
+4.  Data Analysis / Data Analyst
+5.  Data Visualization
+
+**6. What the Agency Seems to Value Most:**
+The Department of Health and Human Services appears to value a data analyst who possesses a strong foundation in core technical data skills (Python, SQL, Tableau) and can immediately apply these skills to analyze health-related data. Furthermore, they highly value the ability to translate complex data insights into clear, actionable reports for senior leadership and to work effectively in a collaborative, cross-functional environment. Practical experience (2 years) with these tools and responsibilities is also a key priority.

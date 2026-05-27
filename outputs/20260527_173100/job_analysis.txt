@@ -1,0 +1,45 @@
+### Job Analysis Report: Data Scientist (Emerging Markets)
+**Agency:** Commodity Futures Trading Commission (CFTC)  
+**Location:** Washington, D.C.  
+**Closing Date:** May 29, 2026
+
+---
+
+#### 1. Required Technical Skills
+*   **Programming:** Proficiency in Python, R, or SAS for data manipulation and statistical analysis.
+*   **Data Analysis & Modeling:** Advanced statistical modeling, machine learning, econometric analysis, and quantitative research methods.
+*   **Data Visualization:** Experience with tools such as Tableau, Power BI, or Python-based libraries (Matplotlib, Seaborn) to communicate findings.
+*   **Database Management:** SQL for complex querying and large dataset management.
+*   **Domain Knowledge:** Understanding of financial markets, commodity derivatives, and emerging market structures.
+
+#### 2. Soft Skills and Qualities
+*   **Analytical Thinking:** Ability to decompose complex financial datasets into actionable intelligence.
+*   **Communication:** Excellent written and verbal communication skills for presenting findings to non-technical stakeholders and leadership.
+*   **Adaptability:** Capacity to learn new regulatory frameworks and market dynamics rapidly.
+*   **Collaboration:** Strong interpersonal skills for working in cross-functional teams (legal, policy, and enforcement).
+*   **Intellectual Curiosity:** A proactive approach to investigating market anomalies and emerging trends.
+
+#### 3. Experience Level and Years Required
+*   **Grade Level:** Generally aligned with GS-13/14 (equivalent to mid-to-senior level).
+*   **Experience:** 3–5+ years of progressive professional experience in data science, economics, or quantitative analysis within a financial or regulatory environment. 
+*   **Education:** A degree in Statistics, Economics, Mathematics, Computer Science, or a related quantitative field is typically required to qualify for federal Data Scientist series (1560).
+
+#### 4. Key Responsibilities
+*   **Market Monitoring:** Identifying and analyzing patterns in trading data to detect potential market abuse or systemic risks.
+*   **Model Development:** Building, testing, and implementing predictive models to support policy decisions and regulatory oversight.
+*   **Policy Support:** Providing data-driven insights to inform the rulemaking process for emerging financial technologies and markets.
+*   **Technical Reporting:** Authoring detailed technical memos and research papers for CFTC leadership and regulatory committees.
+*   **Collaboration:** Partnering with economists and lawyers to investigate complex derivatives trading activities.
+
+#### 5. Top 5 Resume Keywords
+1.  **Quantitative Analysis**
+2.  **Statistical Modeling**
+3.  **Data Visualization**
+4.  **Financial Derivatives** (or Commodity Markets)
+5.  **Regulatory Oversight**
+
+#### 6. What the Agency Values Most
+*   **Market Integrity:** The CFTC prioritizes candidates who demonstrate a commitment to protecting the integrity of U.S. derivatives markets.
+*   **Evidence-Based Decision Making:** They value candidates who can bridge the gap between "raw data" and "regulatory policy." The agency looks for individuals who do not just report numbers, but explain the *implications* of those numbers on market participants.
+*   **Technical Rigor:** Because this role involves high-stakes financial regulation, the agency places a premium on candidates who demonstrate precision, reproducibility in their coding/models, and a deep understanding of the regulatory environment.
+*   **Proactivity:** They value "emerging markets" expertise—specifically, the ability to anticipate how new technologies (like DeFi or new fintech products) will impact the existing regulatory landscape.

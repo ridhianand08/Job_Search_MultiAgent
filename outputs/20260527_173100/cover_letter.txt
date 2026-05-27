@@ -1,0 +1,13 @@
+Dear Hiring Team at the Commodity Futures Trading Commission,
+
+I am writing to express my strong interest in the Data Scientist (Emerging Markets) position at the CFTC. As a computer science graduate specializing in artificial intelligence, I have long admired the Commission’s commitment to maintaining market integrity through evidence-based oversight. I am eager to contribute my technical background in quantitative modeling and my passion for systemic risk analysis to help the CFTC effectively regulate the increasingly complex landscape of commodity derivatives and emerging financial technologies.
+
+My experience is defined by a rigorous approach to translating raw, large-scale data into actionable intelligence. During my tenure as a Research Assistant at the IEDC Lab, I developed time-series machine learning models to identify patterns within complex geospatial datasets, achieving 85% predictive accuracy. This experience mirrors the CFTC’s need for precise statistical modeling and reproducible research. Furthermore, I recently engineered a multi-agent predictive system using Python, LangChain, and Streamlit, designed to automate data gathering and identify systemic anomalies. This project honed my ability to bridge the gap between unstructured data and clear, stakeholder-ready visualizations—a skill set I am ready to apply to your mission of monitoring market abuse and informing policy decisions.
+
+I am confident that my technical proficiency in Python and SQL, combined with my ability to synthesize findings for non-technical audiences, makes me a strong fit for your team. I am eager to bring my proactive, analytical mindset to the Commission and would welcome the opportunity to discuss how my background aligns with your regulatory goals. Thank you for your time and consideration.
+
+Sincerely,
+
+Manan Bhutiani
++91 9903353460
+manan.bhutiani@gmail.com
